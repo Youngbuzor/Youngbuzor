@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toolsbase
-- 👀 I’m interested in ... spamming tools
+- 👀 I’m interested in ... CPanel 
 - 🌱 I’m currently learning ... no
-- 💞️ I’m looking to collaborate on ... spamming tools
+- 💞️ I’m looking to collaborate on ... Exploits Bugs
 - 📫 How to reach me ... toolsbase :Skpen
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
